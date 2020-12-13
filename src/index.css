@@ -8,17 +8,13 @@
 	filter: invert(90%)
 }
 
-/* Remove the jumbotron's default bottom margin */ 
- .jumbotron {
-  margin-bottom: 0;
+.main-container {
+  min-height:400px;
 }
 
-/* Add a gray background color and some padding to the footer */
-footer {
-  background-color: #f2f2f2;
-  padding: 25px;
+.product-pagination {
+  margin: 20px;
 }
-
 h2{
   color: antiquewhite;
 }
