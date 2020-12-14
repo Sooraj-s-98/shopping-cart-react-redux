@@ -1,22 +1,33 @@
 import React from 'react';
-import AddToCart from './AddToCart';
 import { Link } from 'react-router-dom';
 
-export default (props) => {
-  console.log(props);
-  return(
-    <div class="col-12 col-md-5 m-1">
+import AddToCart from './AddToCart';
+import ReadMore from '../helpers/ReadMore';
 
-      <div class=" product-box">
-        <h3 class="prod-title"><Link to="/product-detail/{props.product.Id}">{props.product.Title}</Link></h3>
-        <Link to="/product-detail/{props.product.Id}"><img class=" rounded mx-auto d-block" src={props.product.ImageUrl} /></Link>
-        <div class="prod-details">
-          <p class="description"> {props.product.Description}</p>
-          <p class="product-prop"><b>Organic:</b> {props.product.Organic}</p>
-          <p class="product-prop"><b>Price:</b> {props.product.Price}</p>
+export default (props) => {
+  return(
+    <div className="col-6 col-sm-4">
+
+      <div className="product-box card bg-light mb-3">
+        <div className="card-header">
+          <h5 className="card-title">
+            <Link to={"/product-detail/" + props.product.Id}>{props.product.Title}</Link>
+          </h5>
         </div>
-      <AddToCart />
-    </div>
+        <div className="card-body">
+          <div className="text-center">
+            <Link to={"/product-detail/" + props.product.Id}>
+              <img className="card-img-top" alt={props.product.Title} src={props.product.ImageUrl} />
+            </Link>
+          </div>
+          <p className="card-text description">
+            <ReadMore text={props.product.Description} length="100" />
+          </p>
+          <p className="card-text"><b>Price:</b> ${props.product.Price}</p>
+          <AddToCart product={props.product} />
+        </div>
+      </div>
+
     </div>
   );
 }

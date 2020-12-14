@@ -1,8 +1,9 @@
 import React, { Component } from 'react';
 import { connect } from 'react-redux';
 import * as actions from '../../actions';
+import { AddToCartContext } from '../../contexts/AddToCartContext';
 import ProductList from '../containers/ProductList';
-import { fetchProducts } from '../middleware/fetchProducts';
+import { fetchProducts } from '../../lib/fetchProducts';
 
 class Home extends Component {
   constructor(props) {
@@ -17,12 +18,15 @@ class Home extends Component {
   }
 
   render() {
+    // Passing AddToCartContext as it might be used at any deep level child.
     return(
-      <div className="container main-container">
-        <div className="box">
-          <ProductList products={this.state.products} />
+      <AddToCartContext.Provider value={{action: this.props.addToCartAction}}>
+        <div className="container main-container">
+          <div className="box">
+            <ProductList products={this.state.products} />
+          </div>
         </div>
-      </div>
+      </AddToCartContext.Provider>
     );
   }
 }

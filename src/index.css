@@ -1,6 +1,6 @@
 /* Remove the navbar's default rounded borders and increase the bottom margin */ 
 .navbar {
-  margin-bottom: 50px;
+  margin-bottom: 20px;
   border-radius: 0;
 }
 
@@ -12,9 +12,62 @@
   min-height:400px;
 }
 
-.product-pagination {
-  margin: 20px;
-}
 h2{
   color: antiquewhite;
+}
+
+.product-pagination {
+  margin: 15px auto 35px auto;
+  width: 16em;
+}
+
+.product-box {
+  margin: 5px 5px 20px 5px;
+  box-shadow: 0 0 0 0 rgba(0, 0, 0, 0.5), 0 0 10px 0 rgba(0, 0, 0, 0.25);
+}
+
+.product-box img.card-img-top {
+  max-height: 12rem;
+  max-width: 13rem;
+}
+
+.product-box .card-title {
+  text-align: center;
+}
+
+.add-cart-container {
+  text-align: center;
+}
+
+.product-box .text-center {
+  min-height: 12rem;
+}
+
+.product-box .card-title a:hover{
+  text-decoration: none;
+}
+
+#nav-view-cart-link {
+  -webkit-transition: all 0.5s ease;
+  -moz-transition: all 0.5s ease;
+  -o-transition: all 0.5s ease;
+  transition: all 0.5s ease;
+}
+
+#nav-view-cart-link.active {
+  border: 1px solid white;
+  /*background-color: #7e8891;*/
+  color: #47e6ff;
+}
+
+.container-proceed-cart {
+  margin-bottom: 30px;
+}
+
+.cart-form-input-group.input-group input{
+  margin-right: 10px;
+}
+
+.container-proceed-cart button {
+  margin-right: 10px;
 }

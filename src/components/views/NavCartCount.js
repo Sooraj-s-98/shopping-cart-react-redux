@@ -1,9 +1,12 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 
-export default () => {
+export default (props) => {
   return(
     <div>
-      <button type="button" className="btn btn-secondary">Cart (5)</button>
+      <Link id="nav-view-cart-link" to="/shopping-cart" className="btn btn-secondary">
+        Cart ({ props.cartItemCount })
+      </Link>
     </div>
   );
 }
