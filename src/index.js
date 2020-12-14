@@ -1,11 +1,28 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import { Provider } from 'react-redux';
+import { BrowserRouter as Router, Route, Switch } from 'react-router-dom'
+
+import Home from './components/pages/Home';
+import ShoppingCart from './components/pages/ShoppingCart';
+import NavContainer from './components/containers/NavContainer';
+import store from './store';
+import 'bootstrap/dist/css/bootstrap.css';
+import 'jquery';
+import 'bootstrap/dist/js/bootstrap';
 import './index.css';
-import App from './App';
 
 ReactDOM.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>,
+  <Provider store={store}>
+    <Router>
+      <div className="App">
+        <NavContainer />
+        <Switch>
+          <Route exact path="/" component={Home}/>
+          <Route path="/shopping-cart" component={ShoppingCart}/>
+        </Switch>
+      </div>
+    </Router>
+  </Provider>,
   document.getElementById('root')
 );
