@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-//import { findDOMNode } from 'react-dom';
+import StripeCheckout from 'react-stripe-checkout';
 import { confirmAlert } from 'react-confirm-alert';
 
 import CartItem from '../views/CartItem';
@@ -89,7 +89,11 @@ export default class CartList extends Component {
                   <button type="submit" className="btn btn-primary">Update Cart</button>
                 </div>
                 <div className="btn-group" role="group" aria-label="Checkout">
+                <StripeCheckout
+                    stripeKey={process.env.REST_API_KEY}
+                    name="BUY " >
                   <button type="button" className="btn btn-primary">Checkout</button>
+                </StripeCheckout>
                 </div>
               </div>
             </div>

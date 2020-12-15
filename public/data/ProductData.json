@@ -1,114 +1,246 @@
 {
 	"Products": [{
 			"Id": "1",
-			"Title": "redmi",
-			"Description": "Featuring a 15.49-cm (6.1) all-screen Liquid Retina LCD and a glass and aluminum design, the iPhone 11 is as beautiful as it gets. Also, the IP68 rating ensures that is water-resistant up to 2 meters for 30 minutes.",
-			"ImageUrl": "https://rukminim1.flixcart.com/image/416/416/kesv0y80/mobile/u/h/m/redmi-9i-mzb0818in-original-imafveh4xva2fes2.jpeg?q=70",
-			"OrgPrice": 7,
-			"Price": 7
+			"Title": "OnePlus Nord 5G ",
+			"Description": "48MP+8MP+5MP+2MP quad rear camera with 1080P Video at 30/60 fps, 4k 30fps | 32MP+8MP front dual camera with 4K video capture at 30/60 fps and 1080 video capture at 30/60 fps.",
+			"ImageUrl": "https://images-eu.ssl-images-amazon.com/images/I/71gag816F7L._AC_UL200_SR200,200_.jpg",
+			"OrgPrice": 46,
+			"Price": 45
 		},
 		{
 			"Id": "2",
-			"Title": "Apple iPhone 11 ",
-			"Description": "Featuring a 15.49-cm (6.1) all-screen Liquid Retina LCD and a glass and aluminum design, the iPhone 11 is as beautiful as it gets. Also, the IP68 rating ensures that is water-resistant up to 2 meters for 30 minutes.",
-			"ImageUrl": "https://rukminim1.flixcart.com/image/416/416/k2jbyq80pkrrdj/mobile-refurbished/k/y/d/iphone-11-256-u-mwm82hn-a-apple-0-original-imafkg25mhaztxns.jpeg?q=70",
-			"OrgPrice": 7,
-			"Price": 7
+			"Title": "Redmi 9 Prime ",
+			"Description": "13MP quad rear camera, ultra-wide, macro, portrait, AI scene recognition, HDR, pro mode | 8 MP front camera. Memory, Storage & SIM: 4GB | 64GB internal memory expandable up to 512GB | Dual SIM (nano+nano) + Dedicated SD card slot",
+			"ImageUrl": "https://images-eu.ssl-images-amazon.com/images/I/719lhUzicYL._AC_UL200_SR200,200_.jpg",
+			"OrgPrice": 35,
+			"Price": 30
 		},{
 			"Id": "3",
-			"Title": "Realme 7",
-			"Description": "Featuring a 15.49-cm (6.1) all-screen Liquid Retina LCD and a glass and aluminum design, the iPhone 11 is as beautiful as it gets. Also, the IP68 rating ensures that is water-resistant up to 2 meters for 30 minutes.",
-			"ImageUrl": "https://rukminim1.flixcart.com/image/416/416/kesv0y80/mobile/u/h/m/redmi-9i-mzb0818in-original-imafveh4xva2fes2.jpeg?q=70",
-			"OrgPrice": 7,
-			"Price": 7
+			"Title": "Samsung Galaxy M31",
+			"Description": "Quad camera setup - 64MP (F1.8 main camera + 8MP (F2.2 ultra wide camera + 5MP F2.2 depth camera + 5MP (F2.4) macro camera | 32MP (F2.0) front facing camera16.21 centimeters (6.4-inch) Super Amoled - Infinity U cut display, FHD+ capacitive multi-touch touchscreen with 2340 x 1080 pixels resolution, 404 ppi with 16M color support",
+			"ImageUrl": "https://images-eu.ssl-images-amazon.com/images/I/71zb0UaK0PL._AC_UL200_SR200,200_.jpg",
+			"OrgPrice": 30,
+			"Price": 25
 		},{
 			"Id": "4",
-			"Title": "redmi",
-			"Description": "Featuring a 15.49-cm (6.1) all-screen Liquid Retina LCD and a glass and aluminum design, the iPhone 11 is as beautiful as it gets. Also, the IP68 rating ensures that is water-resistant up to 2 meters for 30 minutes.",
-			"ImageUrl": "https://rukminim1.flixcart.com/image/416/416/kesv0y80/mobile/u/h/m/redmi-9i-mzb0818in-original-imafveh4xva2fes2.jpeg?q=70",
-			"OrgPrice": 7,
-			"Price": 7
-		},
-		{
+			"Title": "Redmi 9A ",
+			"Description": "13MP rear camera with AI portrait, AI scene recognition, HDR, pro mode | 5MP front camera 16.58 centimeters (6.53 inch) HD+ multi-touch capacitive touchscreen with 1600 x 720 pixels resolution, 268 ppi pixel density and 20:9 aspect ratio Memory, Storage & SIM: 3GB RAM, 32GB internal memory expandable up to 512GB | Dual SIM (nano+nano) + Dedicated SD card slot",
+			"ImageUrl": "https://images-eu.ssl-images-amazon.com/images/I/71sxX9aLtnL._AC_UL200_SR200,200_.jpg",
+			"OrgPrice": 28,
+			"Price": 27
+		},{
 			"Id": "5",
-			"Title": "Apple iPhone 11 ",
-			"Description": "Featuring a 15.49-cm (6.1) all-screen Liquid Retina LCD and a glass and aluminum design, the iPhone 11 is as beautiful as it gets. Also, the IP68 rating ensures that is water-resistant up to 2 meters for 30 minutes.",
-			"ImageUrl": "https://rukminim1.flixcart.com/image/416/416/k2jbyq80pkrrdj/mobile-refurbished/k/y/d/iphone-11-256-u-mwm82hn-a-apple-0-original-imafkg25mhaztxns.jpeg?q=70",
-			"OrgPrice": 7,
-			"Price": 7
+			"Title": "Redmi 8A Dual",
+			"Description": "13+2MP dual rear AI camera with PDAF | 8MP front camera 15.7988 centimeters (6.22-inch) HD+ Dot notch display with 1520 x 720 pixels resolution and 19:9 aspect ratio | 2.5D curved glass Memory, Storage & SIM: 2GB | 32GB internal memory expandable up to 512GB with dedicated memory card slot | Dual SIM (nano+nano) dual-standby (4G+4G) Android Pie v9.0 operating system with 1.95GHz Snapdragon 439 octa core processor",
+			"ImageUrl": "https://images-eu.ssl-images-amazon.com/images/I/710p2f-zAdL._AC_UL200_SR200,200_.jpg",
+			"OrgPrice": 35,
+			"Price": 28
 		},{
 			"Id": "6",
-			"Title": "Realme 7",
-			"Description": "Featuring a 15.49-cm (6.1) all-screen Liquid Retina LCD and a glass and aluminum design, the iPhone 11 is as beautiful as it gets. Also, the IP68 rating ensures that is water-resistant up to 2 meters for 30 minutes.",
-			"ImageUrl": "https://rukminim1.flixcart.com/image/416/416/kesv0y80/mobile/u/h/m/redmi-9i-mzb0818in-original-imafveh4xva2fes2.jpeg?q=70",
-			"OrgPrice": 7,
-			"Price": 7
+			"Title": "Redmi Note 9 Pro",
+			"Description": "48MP rear camera with ultra-wide, super macro, portrait, night mode, 960fps slowmotion, AI scene recognition, pro color, HDR, pro mode | 16MP facing camera 16.9418 centimeters (6.67-inch) FHD+ full screen dot display LCD multi-touch capacitive touchscreen with 2400 x 1080 pixels resolution, 400 ppi pixel density and 20:9 aspect ratio | 2.5D curved glass Android v10 operating system with 2.3GHz Qualcomm Snapdragon 720G with 8nm octa core processor Memory, Storage & SIM: 4GB RAM | 64GB internal memory expandable up to 512GB with dedicated SD card slot | Dual SIM (nano+nano) dual-standby (4G+4G) 5020mAH lithium-polymer large battery providing talk-time of 29 hours and standby time of 492 hours | 18W fast charger in-box and Type-C connectivity",
+			"ImageUrl": "https://images-eu.ssl-images-amazon.com/images/I/81pzsRpE5GL._AC_UL200_SR200,200_.jpg",
+			"OrgPrice": 26,
+			"Price": 24
 		},{
 			"Id": "7",
-			"Title": "redmi",
-			"Description": "Featuring a 15.49-cm (6.1) all-screen Liquid Retina LCD and a glass and aluminum design, the iPhone 11 is as beautiful as it gets. Also, the IP68 rating ensures that is water-resistant up to 2 meters for 30 minutes.",
-			"ImageUrl": "https://rukminim1.flixcart.com/image/416/416/kesv0y80/mobile/u/h/m/redmi-9i-mzb0818in-original-imafveh4xva2fes2.jpeg?q=70",
-			"OrgPrice": 7,
-			"Price": 7
-		},
-		{
+			"Title": "Oppo A31",
+			"Description": "12+2+2MP triple rear camera (12MP main camera+2MP macro lens+2MP depth camera) with Portrait bokeh, macro lens, dazzle color mode, AI beautification | 8MP front camera 16.5 centimeters (6.5-inch) waterdrop multi touch screen with an 89% screen to body ratio | 1600 x 720 pixels resolution, 269 ppi pixel density Memory, Storage & SIM: 6GB RAM | 128GB internal memory expandable up to 256GB | Dual SIM (nano+nano) dual-standby (4G+4G) Android Pie v9.0 based on ColorOS 6.1 operating system with 2.3GHz Mediatek 6765 octa core processor, IMG GE8320 4230mAH lithium-polymer battery providing talk-time of 45 hours and standby time of 450 hours",
+			"ImageUrl": "https://images-eu.ssl-images-amazon.com/images/I/61CnyJ-IbML._AC_UL200_SR200,200_.jpg",
+			"OrgPrice": 20,
+			"Price": 19
+		},{
 			"Id": "8",
-			"Title": "Apple iPhone 11 ",
-			"Description": "Featuring a 15.49-cm (6.1) all-screen Liquid Retina LCD and a glass and aluminum design, the iPhone 11 is as beautiful as it gets. Also, the IP68 rating ensures that is water-resistant up to 2 meters for 30 minutes.",
-			"ImageUrl": "https://rukminim1.flixcart.com/image/416/416/k2jbyq80pkrrdj/mobile-refurbished/k/y/d/iphone-11-256-u-mwm82hn-a-apple-0-original-imafkg25mhaztxns.jpeg?q=70",
-			"OrgPrice": 7,
-			"Price": 7
+			"Title": "OnePlus 8T 5G",
+			"Description": "Rear quad camera setup having 48MP main camera with Sony IMX586 sensor, 16MP ultra wide angle Lends, 5MP macro lens, 2MP monochrome lens | 16MP front camera with Sony IMX471 sensor 16.63 centimeters (6.55 inch) 120Hz fluid AMOLED capacitive touchscreen with 2400 x 1080 pixels resolution, 402 ppi pixel density OxygenOS based on Android v11 operating system with 2.86GHz Qualcomm Snapdragon 865TM with Adreno 650 GPU quad core processor Memory, Storage & SIM: 8GB RAM | 128GB internal memory expandable up to 128GB | Dual SIM (nano+nano) dual-standby (5G+4G) 4500mAH lithium-polymer battery 1 year manufacturer warranty for device and 6 months manufacturer warranty for in-box accessories including batteries from the date of purchase 120 Hz fluid Amoled display, Qualcomm Snapdragon 865, Warp Charge 65 , OxygenOS based on Android 11, Adreno 650 GPU Reading mode, night mode, vibrant color, face unlock, HDR, screen flash, face retouching",
+			"ImageUrl": "https://images-eu.ssl-images-amazon.com/images/I/71m05O2uNdL._AC_UL200_SR200,200_.jpg",
+			"OrgPrice": 60,
+			"Price": 58
 		},{
 			"Id": "9",
-			"Title": "Realme 7",
-			"Description": "Featuring a 15.49-cm (6.1) all-screen Liquid Retina LCD and a glass and aluminum design, the iPhone 11 is as beautiful as it gets. Also, the IP68 rating ensures that is water-resistant up to 2 meters for 30 minutes.",
-			"ImageUrl": "https://rukminim1.flixcart.com/image/416/416/kesv0y80/mobile/u/h/m/redmi-9i-mzb0818in-original-imafveh4xva2fes2.jpeg?q=70",
+			"Title": "Vivo V20 Pro ",
+			"Description": "64MP+8MP+2MP rear camera with motion autofocus, eye autofocus, body/object autofocus, super night mode, super wide angle night mode, tripod night mode, ultra stable video, art portrait video, super macro, bokeh portrait, multi-style portrait, ar stickers, 3d sound tracking | 44MP+8MP selfie camera 16.35 centimeters (6.44 inch) FHD+ multi-touch capacitive touchscreen with 2400 x 1080 pixels resolution Memory, Storage & SIM: 8GB RAM | 128GB internal memory expandable | Dual SIM (nano+nano) dual-standby (5G+4G) Funtouch OS 11 based on Android 10 operating system ( Android 11 will be available through OTA Update) with Qualcomm Snapdragon 765G 5G octa core processor 4000mAH lithium-ion battery",
+			"ImageUrl": "https://images-eu.ssl-images-amazon.com/images/I/71HLaYtc%2BJL._AC_UL200_SR200,200_.jpg",
 			"OrgPrice": 7,
 			"Price": 7
 		},{
 			"Id": "10",
-			"Title": "redmi",
-			"Description": "Featuring a 15.49-cm (6.1) all-screen Liquid Retina LCD and a glass and aluminum design, the iPhone 11 is as beautiful as it gets. Also, the IP68 rating ensures that is water-resistant up to 2 meters for 30 minutes.",
-			"ImageUrl": "https://rukminim1.flixcart.com/image/416/416/kesv0y80/mobile/u/h/m/redmi-9i-mzb0818in-original-imafveh4xva2fes2.jpeg?q=70",
-			"OrgPrice": 7,
-			"Price": 7
-		},
-		{
+			"Title": "HP 14 Ultra Thin ",
+			"Description": "Processor: Intel Core i3-1005G1(1.2 GHz base frequency, up to 3.4 GHz with Intel Turbo Boost Technology, 4 MB L3 cache, 2 cores) Operating System & Preinstalled Software: Windows 10 Home | Microsoft Office Home & Student 2019 | In the box: Laptop with included battery, charger Display: 14-Inch (1366 x 768) diagonal HD, SVA, BrightView micro-edge, WLED Display Memory & Storage: 8 GB DDR4-2666 SDRAM (1 x 8 GB) | 256 GB PCIe NVMe M.2 SSD Graphics: Intel UHD Graphics Design & Battery: Thin and light design | Laptop weight: 1.47 kg | Average battery life = 7 hours, 3-cell, 41 Wh Li-ion Fast Charge Battery Camera & Microphone: HP TrueVision HD camera with integrated dual array digital microphone",
+			"ImageUrl": "https://m.media-amazon.com/images/I/81MEmcBaxVL._AC_UY327_FMwebp_QL65_.jpg",
+			"OrgPrice": 105,
+			"Price": 103
+		},{
 			"Id": "11",
-			"Title": "Apple iPhone 11 ",
-			"Description": "Featuring a 15.49-cm (6.1) all-screen Liquid Retina LCD and a glass and aluminum design, the iPhone 11 is as beautiful as it gets. Also, the IP68 rating ensures that is water-resistant up to 2 meters for 30 minutes.",
-			"ImageUrl": "https://rukminim1.flixcart.com/image/416/416/k2jbyq80pkrrdj/mobile-refurbished/k/y/d/iphone-11-256-u-mwm82hn-a-apple-0-original-imafkg25mhaztxns.jpeg?q=70",
-			"OrgPrice": 7,
-			"Price": 7
-		},{
-			"Id": "12",
-			"Title": "Realme 7",
-			"Description": "Featuring a 15.49-cm (6.1) all-screen Liquid Retina LCD and a glass and aluminum design, the iPhone 11 is as beautiful as it gets. Also, the IP68 rating ensures that is water-resistant up to 2 meters for 30 minutes.",
-			"ImageUrl": "https://rukminim1.flixcart.com/image/416/416/kesv0y80/mobile/u/h/m/redmi-9i-mzb0818in-original-imafveh4xva2fes2.jpeg?q=70",
-			"OrgPrice": 7,
-			"Price": 7
-		},{
-			"Id": "13",
-			"Title": "redmi",
-			"Description": "Featuring a 15.49-cm (6.1) all-screen Liquid Retina LCD and a glass and aluminum design, the iPhone 11 is as beautiful as it gets. Also, the IP68 rating ensures that is water-resistant up to 2 meters for 30 minutes.",
-			"ImageUrl": "https://rukminim1.flixcart.com/image/416/416/kesv0y80/mobile/u/h/m/redmi-9i-mzb0818in-original-imafveh4xva2fes2.jpeg?q=70",
-			"OrgPrice": 7,
-			"Price": 7
+			"Title": "Apple MacBook Air",
+			"Description": "(13-inch, 8GB RAM, 128GB Storage, 1.8GHz Intel Core i5) - Silver",
+			"ImageUrl": "https://m.media-amazon.com/images/I/51TdkJSqeQL._AC_UY327_FMwebp_QL65_.jpg",
+			"OrgPrice": 200,
+			"Price": 190
 		},
 		{
+			"Id": "12",
+			"Title": "OnePlus Nord 5G ",
+			"Description": "48MP+8MP+5MP+2MP quad rear camera with 1080P Video at 30/60 fps, 4k 30fps | 32MP+8MP front dual camera with 4K video capture at 30/60 fps and 1080 video capture at 30/60 fps.",
+			"ImageUrl": "https://images-eu.ssl-images-amazon.com/images/I/71gag816F7L._AC_UL200_SR200,200_.jpg",
+			"OrgPrice": 46,
+			"Price": 45
+		},
+		{
+			"Id": "13",
+			"Title": "Redmi 9 Prime ",
+			"Description": "13MP quad rear camera, ultra-wide, macro, portrait, AI scene recognition, HDR, pro mode | 8 MP front camera. Memory, Storage & SIM: 4GB | 64GB internal memory expandable up to 512GB | Dual SIM (nano+nano) + Dedicated SD card slot",
+			"ImageUrl": "https://images-eu.ssl-images-amazon.com/images/I/719lhUzicYL._AC_UL200_SR200,200_.jpg",
+			"OrgPrice": 35,
+			"Price": 30
+		},{
 			"Id": "14",
-			"Title": "Apple iPhone 11 ",
-			"Description": "Featuring a 15.49-cm (6.1) all-screen Liquid Retina LCD and a glass and aluminum design, the iPhone 11 is as beautiful as it gets. Also, the IP68 rating ensures that is water-resistant up to 2 meters for 30 minutes.",
-			"ImageUrl": "https://rukminim1.flixcart.com/image/416/416/k2jbyq80pkrrdj/mobile-refurbished/k/y/d/iphone-11-256-u-mwm82hn-a-apple-0-original-imafkg25mhaztxns.jpeg?q=70",
-			"OrgPrice": 7,
-			"Price": 7
+			"Title": "Samsung Galaxy M31",
+			"Description": "Quad camera setup - 64MP (F1.8 main camera + 8MP (F2.2 ultra wide camera + 5MP F2.2 depth camera + 5MP (F2.4) macro camera | 32MP (F2.0) front facing camera16.21 centimeters (6.4-inch) Super Amoled - Infinity U cut display, FHD+ capacitive multi-touch touchscreen with 2340 x 1080 pixels resolution, 404 ppi with 16M color support",
+			"ImageUrl": "https://images-eu.ssl-images-amazon.com/images/I/71zb0UaK0PL._AC_UL200_SR200,200_.jpg",
+			"OrgPrice": 30,
+			"Price": 25
 		},{
 			"Id": "15",
-			"Title": "Realme 7",
-			"Description": "Featuring a 15.49-cm (6.1) all-screen Liquid Retina LCD and a glass and aluminum design, the iPhone 11 is as beautiful as it gets. Also, the IP68 rating ensures that is water-resistant up to 2 meters for 30 minutes.",
-			"ImageUrl": "https://rukminim1.flixcart.com/image/416/416/kesv0y80/mobile/u/h/m/redmi-9i-mzb0818in-original-imafveh4xva2fes2.jpeg?q=70",
+			"Title": "Redmi 9A ",
+			"Description": "13MP rear camera with AI portrait, AI scene recognition, HDR, pro mode | 5MP front camera 16.58 centimeters (6.53 inch) HD+ multi-touch capacitive touchscreen with 1600 x 720 pixels resolution, 268 ppi pixel density and 20:9 aspect ratio Memory, Storage & SIM: 3GB RAM, 32GB internal memory expandable up to 512GB | Dual SIM (nano+nano) + Dedicated SD card slot",
+			"ImageUrl": "https://images-eu.ssl-images-amazon.com/images/I/71sxX9aLtnL._AC_UL200_SR200,200_.jpg",
+			"OrgPrice": 28,
+			"Price": 27
+		},{
+			"Id": "16",
+			"Title": "Redmi 8A Dual",
+			"Description": "13+2MP dual rear AI camera with PDAF | 8MP front camera 15.7988 centimeters (6.22-inch) HD+ Dot notch display with 1520 x 720 pixels resolution and 19:9 aspect ratio | 2.5D curved glass Memory, Storage & SIM: 2GB | 32GB internal memory expandable up to 512GB with dedicated memory card slot | Dual SIM (nano+nano) dual-standby (4G+4G) Android Pie v9.0 operating system with 1.95GHz Snapdragon 439 octa core processor",
+			"ImageUrl": "https://images-eu.ssl-images-amazon.com/images/I/710p2f-zAdL._AC_UL200_SR200,200_.jpg",
+			"OrgPrice": 35,
+			"Price": 28
+		},{
+			"Id": "17",
+			"Title": "Redmi Note 9 Pro",
+			"Description": "48MP rear camera with ultra-wide, super macro, portrait, night mode, 960fps slowmotion, AI scene recognition, pro color, HDR, pro mode | 16MP facing camera 16.9418 centimeters (6.67-inch) FHD+ full screen dot display LCD multi-touch capacitive touchscreen with 2400 x 1080 pixels resolution, 400 ppi pixel density and 20:9 aspect ratio | 2.5D curved glass Android v10 operating system with 2.3GHz Qualcomm Snapdragon 720G with 8nm octa core processor Memory, Storage & SIM: 4GB RAM | 64GB internal memory expandable up to 512GB with dedicated SD card slot | Dual SIM (nano+nano) dual-standby (4G+4G) 5020mAH lithium-polymer large battery providing talk-time of 29 hours and standby time of 492 hours | 18W fast charger in-box and Type-C connectivity",
+			"ImageUrl": "https://images-eu.ssl-images-amazon.com/images/I/81pzsRpE5GL._AC_UL200_SR200,200_.jpg",
+			"OrgPrice": 26,
+			"Price": 24
+		},{
+			"Id": "18",
+			"Title": "Oppo A31",
+			"Description": "12+2+2MP triple rear camera (12MP main camera+2MP macro lens+2MP depth camera) with Portrait bokeh, macro lens, dazzle color mode, AI beautification | 8MP front camera 16.5 centimeters (6.5-inch) waterdrop multi touch screen with an 89% screen to body ratio | 1600 x 720 pixels resolution, 269 ppi pixel density Memory, Storage & SIM: 6GB RAM | 128GB internal memory expandable up to 256GB | Dual SIM (nano+nano) dual-standby (4G+4G) Android Pie v9.0 based on ColorOS 6.1 operating system with 2.3GHz Mediatek 6765 octa core processor, IMG GE8320 4230mAH lithium-polymer battery providing talk-time of 45 hours and standby time of 450 hours",
+			"ImageUrl": "https://images-eu.ssl-images-amazon.com/images/I/61CnyJ-IbML._AC_UL200_SR200,200_.jpg",
+			"OrgPrice": 20,
+			"Price": 19
+		},{
+			"Id": "19",
+			"Title": "OnePlus 8T 5G",
+			"Description": "Rear quad camera setup having 48MP main camera with Sony IMX586 sensor, 16MP ultra wide angle Lends, 5MP macro lens, 2MP monochrome lens | 16MP front camera with Sony IMX471 sensor 16.63 centimeters (6.55 inch) 120Hz fluid AMOLED capacitive touchscreen with 2400 x 1080 pixels resolution, 402 ppi pixel density OxygenOS based on Android v11 operating system with 2.86GHz Qualcomm Snapdragon 865TM with Adreno 650 GPU quad core processor Memory, Storage & SIM: 8GB RAM | 128GB internal memory expandable up to 128GB | Dual SIM (nano+nano) dual-standby (5G+4G) 4500mAH lithium-polymer battery 1 year manufacturer warranty for device and 6 months manufacturer warranty for in-box accessories including batteries from the date of purchase 120 Hz fluid Amoled display, Qualcomm Snapdragon 865, Warp Charge 65 , OxygenOS based on Android 11, Adreno 650 GPU Reading mode, night mode, vibrant color, face unlock, HDR, screen flash, face retouching",
+			"ImageUrl": "https://images-eu.ssl-images-amazon.com/images/I/71m05O2uNdL._AC_UL200_SR200,200_.jpg",
+			"OrgPrice": 60,
+			"Price": 58
+		},{
+			"Id": "20",
+			"Title": "Vivo V20 Pro ",
+			"Description": "64MP+8MP+2MP rear camera with motion autofocus, eye autofocus, body/object autofocus, super night mode, super wide angle night mode, tripod night mode, ultra stable video, art portrait video, super macro, bokeh portrait, multi-style portrait, ar stickers, 3d sound tracking | 44MP+8MP selfie camera 16.35 centimeters (6.44 inch) FHD+ multi-touch capacitive touchscreen with 2400 x 1080 pixels resolution Memory, Storage & SIM: 8GB RAM | 128GB internal memory expandable | Dual SIM (nano+nano) dual-standby (5G+4G) Funtouch OS 11 based on Android 10 operating system ( Android 11 will be available through OTA Update) with Qualcomm Snapdragon 765G 5G octa core processor 4000mAH lithium-ion battery",
+			"ImageUrl": "https://images-eu.ssl-images-amazon.com/images/I/71HLaYtc%2BJL._AC_UL200_SR200,200_.jpg",
 			"OrgPrice": 7,
 			"Price": 7
+		},{
+			"Id": "21",
+			"Title": "HP 14 Ultra Thin ",
+			"Description": "Processor: Intel Core i3-1005G1(1.2 GHz base frequency, up to 3.4 GHz with Intel Turbo Boost Technology, 4 MB L3 cache, 2 cores) Operating System & Preinstalled Software: Windows 10 Home | Microsoft Office Home & Student 2019 | In the box: Laptop with included battery, charger Display: 14-Inch (1366 x 768) diagonal HD, SVA, BrightView micro-edge, WLED Display Memory & Storage: 8 GB DDR4-2666 SDRAM (1 x 8 GB) | 256 GB PCIe NVMe M.2 SSD Graphics: Intel UHD Graphics Design & Battery: Thin and light design | Laptop weight: 1.47 kg | Average battery life = 7 hours, 3-cell, 41 Wh Li-ion Fast Charge Battery Camera & Microphone: HP TrueVision HD camera with integrated dual array digital microphone",
+			"ImageUrl": "https://m.media-amazon.com/images/I/81MEmcBaxVL._AC_UY327_FMwebp_QL65_.jpg",
+			"OrgPrice": 105,
+			"Price": 103
+		},{
+			"Id": "22",
+			"Title": "Apple MacBook Air",
+			"Description": "(13-inch, 8GB RAM, 128GB Storage, 1.8GHz Intel Core i5) - Silver",
+			"ImageUrl": "https://m.media-amazon.com/images/I/51TdkJSqeQL._AC_UY327_FMwebp_QL65_.jpg",
+			"OrgPrice": 200,
+			"Price": 190
+		},{
+			"Id": "23",
+			"Title": "Redmi 8A Dual",
+			"Description": "13+2MP dual rear AI camera with PDAF | 8MP front camera 15.7988 centimeters (6.22-inch) HD+ Dot notch display with 1520 x 720 pixels resolution and 19:9 aspect ratio | 2.5D curved glass Memory, Storage & SIM: 2GB | 32GB internal memory expandable up to 512GB with dedicated memory card slot | Dual SIM (nano+nano) dual-standby (4G+4G) Android Pie v9.0 operating system with 1.95GHz Snapdragon 439 octa core processor",
+			"ImageUrl": "https://images-eu.ssl-images-amazon.com/images/I/710p2f-zAdL._AC_UL200_SR200,200_.jpg",
+			"OrgPrice": 35,
+			"Price": 28
+		},{
+			"Id": "24",
+			"Title": "Redmi Note 9 Pro",
+			"Description": "48MP rear camera with ultra-wide, super macro, portrait, night mode, 960fps slowmotion, AI scene recognition, pro color, HDR, pro mode | 16MP facing camera 16.9418 centimeters (6.67-inch) FHD+ full screen dot display LCD multi-touch capacitive touchscreen with 2400 x 1080 pixels resolution, 400 ppi pixel density and 20:9 aspect ratio | 2.5D curved glass Android v10 operating system with 2.3GHz Qualcomm Snapdragon 720G with 8nm octa core processor Memory, Storage & SIM: 4GB RAM | 64GB internal memory expandable up to 512GB with dedicated SD card slot | Dual SIM (nano+nano) dual-standby (4G+4G) 5020mAH lithium-polymer large battery providing talk-time of 29 hours and standby time of 492 hours | 18W fast charger in-box and Type-C connectivity",
+			"ImageUrl": "https://images-eu.ssl-images-amazon.com/images/I/81pzsRpE5GL._AC_UL200_SR200,200_.jpg",
+			"OrgPrice": 26,
+			"Price": 24
+		},{
+			"Id": "25",
+			"Title": "Oppo A31",
+			"Description": "12+2+2MP triple rear camera (12MP main camera+2MP macro lens+2MP depth camera) with Portrait bokeh, macro lens, dazzle color mode, AI beautification | 8MP front camera 16.5 centimeters (6.5-inch) waterdrop multi touch screen with an 89% screen to body ratio | 1600 x 720 pixels resolution, 269 ppi pixel density Memory, Storage & SIM: 6GB RAM | 128GB internal memory expandable up to 256GB | Dual SIM (nano+nano) dual-standby (4G+4G) Android Pie v9.0 based on ColorOS 6.1 operating system with 2.3GHz Mediatek 6765 octa core processor, IMG GE8320 4230mAH lithium-polymer battery providing talk-time of 45 hours and standby time of 450 hours",
+			"ImageUrl": "https://images-eu.ssl-images-amazon.com/images/I/61CnyJ-IbML._AC_UL200_SR200,200_.jpg",
+			"OrgPrice": 20,
+			"Price": 19
+		},{
+			"Id": "26",
+			"Title": "OnePlus 8T 5G",
+			"Description": "Rear quad camera setup having 48MP main camera with Sony IMX586 sensor, 16MP ultra wide angle Lends, 5MP macro lens, 2MP monochrome lens | 16MP front camera with Sony IMX471 sensor 16.63 centimeters (6.55 inch) 120Hz fluid AMOLED capacitive touchscreen with 2400 x 1080 pixels resolution, 402 ppi pixel density OxygenOS based on Android v11 operating system with 2.86GHz Qualcomm Snapdragon 865TM with Adreno 650 GPU quad core processor Memory, Storage & SIM: 8GB RAM | 128GB internal memory expandable up to 128GB | Dual SIM (nano+nano) dual-standby (5G+4G) 4500mAH lithium-polymer battery 1 year manufacturer warranty for device and 6 months manufacturer warranty for in-box accessories including batteries from the date of purchase 120 Hz fluid Amoled display, Qualcomm Snapdragon 865, Warp Charge 65 , OxygenOS based on Android 11, Adreno 650 GPU Reading mode, night mode, vibrant color, face unlock, HDR, screen flash, face retouching",
+			"ImageUrl": "https://images-eu.ssl-images-amazon.com/images/I/71m05O2uNdL._AC_UL200_SR200,200_.jpg",
+			"OrgPrice": 60,
+			"Price": 58
+		},{
+			"Id": "27",
+			"Title": "Vivo V20 Pro ",
+			"Description": "64MP+8MP+2MP rear camera with motion autofocus, eye autofocus, body/object autofocus, super night mode, super wide angle night mode, tripod night mode, ultra stable video, art portrait video, super macro, bokeh portrait, multi-style portrait, ar stickers, 3d sound tracking | 44MP+8MP selfie camera 16.35 centimeters (6.44 inch) FHD+ multi-touch capacitive touchscreen with 2400 x 1080 pixels resolution Memory, Storage & SIM: 8GB RAM | 128GB internal memory expandable | Dual SIM (nano+nano) dual-standby (5G+4G) Funtouch OS 11 based on Android 10 operating system ( Android 11 will be available through OTA Update) with Qualcomm Snapdragon 765G 5G octa core processor 4000mAH lithium-ion battery",
+			"ImageUrl": "https://images-eu.ssl-images-amazon.com/images/I/71HLaYtc%2BJL._AC_UL200_SR200,200_.jpg",
+			"OrgPrice": 7,
+			"Price": 7
+		},{
+			"Id": "29",
+			"Title": "HP 14 Ultra Thin ",
+			"Description": "Processor: Intel Core i3-1005G1(1.2 GHz base frequency, up to 3.4 GHz with Intel Turbo Boost Technology, 4 MB L3 cache, 2 cores) Operating System & Preinstalled Software: Windows 10 Home | Microsoft Office Home & Student 2019 | In the box: Laptop with included battery, charger Display: 14-Inch (1366 x 768) diagonal HD, SVA, BrightView micro-edge, WLED Display Memory & Storage: 8 GB DDR4-2666 SDRAM (1 x 8 GB) | 256 GB PCIe NVMe M.2 SSD Graphics: Intel UHD Graphics Design & Battery: Thin and light design | Laptop weight: 1.47 kg | Average battery life = 7 hours, 3-cell, 41 Wh Li-ion Fast Charge Battery Camera & Microphone: HP TrueVision HD camera with integrated dual array digital microphone",
+			"ImageUrl": "https://m.media-amazon.com/images/I/81MEmcBaxVL._AC_UY327_FMwebp_QL65_.jpg",
+			"OrgPrice": 105,
+			"Price": 103
+		},{
+			"Id": "30",
+			"Title": "Apple MacBook Air",
+			"Description": "(13-inch, 8GB RAM, 128GB Storage, 1.8GHz Intel Core i5) - Silver",
+			"ImageUrl": "https://m.media-amazon.com/images/I/51TdkJSqeQL._AC_UY327_FMwebp_QL65_.jpg",
+			"OrgPrice": 200,
+			"Price": 190
+		},{
+			"Id": "31",
+			"Title": "OnePlus Nord 5G ",
+			"Description": "48MP+8MP+5MP+2MP quad rear camera with 1080P Video at 30/60 fps, 4k 30fps | 32MP+8MP front dual camera with 4K video capture at 30/60 fps and 1080 video capture at 30/60 fps.",
+			"ImageUrl": "https://images-eu.ssl-images-amazon.com/images/I/71gag816F7L._AC_UL200_SR200,200_.jpg",
+			"OrgPrice": 46,
+			"Price": 45
+		},
+		{
+			"Id": "32",
+			"Title": "Redmi 9 Prime ",
+			"Description": "13MP quad rear camera, ultra-wide, macro, portrait, AI scene recognition, HDR, pro mode | 8 MP front camera. Memory, Storage & SIM: 4GB | 64GB internal memory expandable up to 512GB | Dual SIM (nano+nano) + Dedicated SD card slot",
+			"ImageUrl": "https://images-eu.ssl-images-amazon.com/images/I/719lhUzicYL._AC_UL200_SR200,200_.jpg",
+			"OrgPrice": 35,
+			"Price": 30
+		},{
+			"Id": "33",
+			"Title": "Samsung Galaxy M31",
+			"Description": "Quad camera setup - 64MP (F1.8 main camera + 8MP (F2.2 ultra wide camera + 5MP F2.2 depth camera + 5MP (F2.4) macro camera | 32MP (F2.0) front facing camera16.21 centimeters (6.4-inch) Super Amoled - Infinity U cut display, FHD+ capacitive multi-touch touchscreen with 2340 x 1080 pixels resolution, 404 ppi with 16M color support",
+			"ImageUrl": "https://images-eu.ssl-images-amazon.com/images/I/71zb0UaK0PL._AC_UL200_SR200,200_.jpg",
+			"OrgPrice": 30,
+			"Price": 25
+		},{
+			"Id": "34",
+			"Title": "Redmi 9A ",
+			"Description": "13MP rear camera with AI portrait, AI scene recognition, HDR, pro mode | 5MP front camera 16.58 centimeters (6.53 inch) HD+ multi-touch capacitive touchscreen with 1600 x 720 pixels resolution, 268 ppi pixel density and 20:9 aspect ratio Memory, Storage & SIM: 3GB RAM, 32GB internal memory expandable up to 512GB | Dual SIM (nano+nano) + Dedicated SD card slot",
+			"ImageUrl": "https://images-eu.ssl-images-amazon.com/images/I/71sxX9aLtnL._AC_UL200_SR200,200_.jpg",
+			"OrgPrice": 28,
+			"Price": 27
+		},{
+			"Id": "35",
+			"Title": "Redmi 8A Dual",
+			"Description": "13+2MP dual rear AI camera with PDAF | 8MP front camera 15.7988 centimeters (6.22-inch) HD+ Dot notch display with 1520 x 720 pixels resolution and 19:9 aspect ratio | 2.5D curved glass Memory, Storage & SIM: 2GB | 32GB internal memory expandable up to 512GB with dedicated memory card slot | Dual SIM (nano+nano) dual-standby (4G+4G) Android Pie v9.0 operating system with 1.95GHz Snapdragon 439 octa core processor",
+			"ImageUrl": "https://images-eu.ssl-images-amazon.com/images/I/710p2f-zAdL._AC_UL200_SR200,200_.jpg",
+			"OrgPrice": 35,
+			"Price": 28
 		}
 	]
 }
