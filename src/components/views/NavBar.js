@@ -1,7 +1,7 @@
 import React from 'react';
 import { NavLink } from 'react-router-dom';
 
-export default () => {
+export default (props) => {
   return(
     <React.Fragment>
       <h2>Shopping IBIL</h2>

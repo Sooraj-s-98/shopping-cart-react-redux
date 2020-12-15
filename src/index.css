@@ -1,6 +1,6 @@
 /* Remove the navbar's default rounded borders and increase the bottom margin */ 
 .navbar {
-  margin-bottom: 20px;
+  /*margin-bottom: 20px;*/
   border-radius: 0;
 }
 
@@ -9,6 +9,7 @@
 }
 
 .main-container {
+  margin-top:20px;
   min-height:400px;
 }
 
@@ -70,4 +71,8 @@ h2{
 
 .container-proceed-cart button {
   margin-right: 10px;
+}
+
+.cart-empty {
+  margin: 80px auto;
 }
