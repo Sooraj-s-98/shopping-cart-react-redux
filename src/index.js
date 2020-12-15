@@ -7,6 +7,7 @@ import Home from './components/pages/Home';
 import ShoppingCart from './components/pages/ShoppingCart';
 import ProductDetailsPage from './components/pages/ProductDetailsPage';
 import NavContainer from './components/containers/NavContainer';
+import Footer from './components/views/Footer';
 import store from './store';
 import 'jquery';
 import 'bootstrap/dist/css/bootstrap.css';
@@ -23,6 +24,7 @@ ReactDOM.render(
           <Route path="/shopping-cart" component={ShoppingCart}/>
           <Route path="/product-detail/:productId" component={ProductDetailsPage}/>
         </Switch>
+        <Footer />
       </div>
     </Router>
   </Provider>,
